@@ -1,4 +1,3 @@
-```markdown
 # User Creation Script
 
 ## Overview
